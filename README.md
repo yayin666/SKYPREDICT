@@ -36,26 +36,26 @@ SkyPredict is an enterprise-grade AI route forecasting and analytics platform de
 ## 📊 Sample Data
 A sample augmented dataset (PIA_2026_Augmented.csv) is provided in the data/raw/ folder for testing.
 with column names:-
-Flight_ID
-Date
-Month
-Day_of_Week
-Departure_City
-Arrival_City
-Route_Type
-Aircraft_Type
-Flight_Duration_Minutes
-Passengers
-Seat_Capacity
-Load_Factor_%
-Ticket_Price_USD
-Revenue_USD
-Delay_Minutes
-Delay_Category
-On_Time_Status
-Weather_Condition
-Fuel_Consumption_Liters
-CO2_Emissions_kg
-Customer_Rating
-Customer_Feedback
-Year
+1. Flight_ID
+2. Date
+3. Month
+4. Day_of_Week
+5. Departure_City
+6. Arrival_City
+7. Route_Type
+8. Aircraft_Type
+9. Flight_Duration_Minutes
+10. Passengers
+11. Seat_Capacity
+12. Load_Factor_%
+13. Ticket_Price_USD
+14. Revenue_USD
+15. Delay_Minutes
+16. Delay_Category
+17. On_Time_Status
+18. Weather_Condition
+19. Fuel_Consumption_Liters
+20. CO2_Emissions_kg
+21. Customer_Rating
+22. Customer_Feedback
+23. Year
